@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-- 京都大学 工学部 地球工学科3回生
+- 山口 輝樹
+- 京都大学工学部 地球工学科土木工学コース 3回生
 - 開発系アルバイト: 株式会社StudioRadish, 株式会社GeeLive
 
 ### Skills
