@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 京都大学 工学部 地球工学科3回生
+- 開発系アルバイト: 株式会社StudioRadish, 株式会社GeeLive
+
+### Skills
+- JavaScript    ★★★★☆
+- TypeScript    ★★★★☆
+- Python        ★★★☆☆
+- HTML/CSS      ★★★☆☆
+- PHP(Laravel)  ★★☆☆☆
+- MySQL         ★★☆☆☆
+- Perl          ★★☆☆☆
+- C             ★☆☆☆☆
+- Git           ★★★☆☆
+- Docker        ★★☆☆☆
+- AWS           ★★☆☆☆
+
+### Personal Projects
+- 新歓データベース [FreshmanDatabase](https://github.com/HLHHS11/FreshmanDatabase)
+- [WEBアプリ](https://hlhhs11.github.io/FreshmanDatabase/)
