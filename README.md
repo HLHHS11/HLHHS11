@@ -20,17 +20,19 @@ Here are some ideas to get you started:
 - 開発系アルバイト: 株式会社StudioRadish, 株式会社GeeLive
 
 ### Skills
-- JavaScript    ★★★★☆
-- TypeScript    ★★★★☆
-- Python        ★★★☆☆
-- HTML/CSS      ★★★☆☆
-- PHP(Laravel)  ★★☆☆☆
-- MySQL         ★★☆☆☆
-- Perl          ★★☆☆☆
-- C             ★☆☆☆☆
-- Git           ★★★☆☆
-- Docker        ★★☆☆☆
-- AWS           ★★☆☆☆
+| Language      | Proficiency |
+| ------------- | ----------- |
+| JavaScript    | ★★★★☆     |
+| TypeScript    | ★★★★☆     |
+| Python        | ★★★☆☆     |
+| HTML/CSS      | ★★★☆☆     |
+| PHP(Laravel)  | ★★☆☆☆     |
+| MySQL         | ★★☆☆☆     |
+| Perl          | ★★☆☆☆     |
+| C             | ★☆☆☆☆     |
+| Git           | ★★★☆☆     |
+| Docker        | ★★☆☆☆     |
+| AWS           | ★★☆☆☆     |
 
 ### Personal Projects
 - 新歓データベース [FreshmanDatabase](https://github.com/HLHHS11/FreshmanDatabase)
