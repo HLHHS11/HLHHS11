@@ -18,10 +18,13 @@ Here are some ideas to get you started:
 - 山口 輝樹
 - 京都大学工学部 地球工学科土木工学コース 3回生
 - 制作物
-  #### Documentation-AI
+  #### [Documentation-AI](https://github.com/HLHHS11/Documentation-AI)
   > **技育展 2023 決勝大会進出作品です。スポンサー企業賞（GMOインターネットグループ様）もいただきました。ありがとうございます！**
   - アプリケーションのソースコードを読み込ませると，各モジュールの各シンボル（関数やクラス，変数など）に対するドキュメントを自動生成。
-
+  #### [スケジュールリマインダー](https://github.com/HLHHS11/schedule-reminder)
+  練習日程をLINE Notify APIを利用してリマインドするGoogleAppsScriptプロジェクト。
+  ドメイン駆動設計・クリーンアーキテクチャを用いて実装。
+  
 - 開発系アルバイト
   #### 株式会社StudioRadish
   - 「ホワイトボード」プロジェクト。オンラインの手書き・ジェスチャーベースの掲示板
@@ -38,7 +41,7 @@ Here are some ideas to get you started:
 | Python        | ★★★☆☆     |
 | HTML/CSS      | ★★★☆☆     |
 | PHP(Laravel)  | ★★☆☆☆     |
-| MySQL         | ★★☆☆☆     |
+| SQL           | ★★☆☆☆     |
 | Perl          | ★★☆☆☆     |
 | C             | ★☆☆☆☆     |
 | Git           | ★★★☆☆     |
@@ -48,6 +51,7 @@ Here are some ideas to get you started:
 ### Personal Projects
 - 新歓データベース [FreshmanDatabase](https://github.comgit/HLHHS11/FreshmanDatabase)
   - [WEBアプリ](https://hlhhs11.github.io/FreshmanDatabase/)
-- 実装やコードリーディングを支援するAIエージェントを作りたいと考えています。  
+- 実装やコードリーディングを支援するAIエージェントを作りたいと考えています。[Documentation-AI](https://github.com/HLHHS11/Documentation-AI)  
   →現在はPython向けドキュメント自動生成の機能が実装できました。（こちらも不完全ではありますが…）  
   [構想](https://github.com/HLHHS11/Documentation-AI/tree/main/docs)
+- [練習日程リマインダー](https://github.com/HLHHS11/schedule-reminder)
