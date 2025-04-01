@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 
 - 山口 輝樹
-- 京都大学工学部 地球工学科土木工学コース 3回生
+- 京都大学工学部 地球工学科土木工学コース 4回生
+- 株式会社whicker CTO (スマホアプリ・バックエンド開発)
+- [自己紹介スライド](self-introduction.pdf)
+
 - 制作物
   #### [Documentation-AI](https://github.com/HLHHS11/Documentation-AI)
   > **技育展 2023 決勝大会進出作品です。スポンサー企業賞（GMOインターネットグループ様）もいただきました。ありがとうございます！**
@@ -38,13 +41,16 @@ Here are some ideas to get you started:
 | ------------- | ----------- |
 | JavaScript    | ★★★★☆     |
 | TypeScript    | ★★★★☆     |
+| Dart (Flutter)| ★★★★☆     |
 | Python        | ★★★☆☆     |
+| Firebase      | ★★★★☆     |
+| Google Cloud  | ★★★☆☆     |
+| Git           | ★★★☆☆     |
 | HTML/CSS      | ★★★☆☆     |
+| SQL           | ★★★☆☆     |
 | PHP(Laravel)  | ★★☆☆☆     |
-| SQL           | ★★☆☆☆     |
 | Perl          | ★★☆☆☆     |
 | C             | ★☆☆☆☆     |
-| Git           | ★★★☆☆     |
 | Docker        | ★★☆☆☆     |
 | AWS           | ★★☆☆☆     |
 
