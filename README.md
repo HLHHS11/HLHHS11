@@ -1,4 +1,7 @@
 ### Hi there 👋
+ちょっとURIテスト  
+[magotomo://example/001?queryExample=testtest](magotomo://example/001?queryExample=testtest)  
+[magotomodev://example/001?queryExample=testtest](magotomodev://example/001?queryExample=testtest)
 
 <!--
 **HLHHS11/HLHHS11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
